@@ -47,7 +47,7 @@ t1_back:"../public/photos/CampinensePB.png",
 t2_back: "../public/photos/Latvia.png",
 t1_name: "Campinense PB",
 t2_name: "Latvia",
-match_day: new Date(2022, 5, 7,20,0),
+match_day: new Date(2022, 5, 7,16,15),
 time: 0,
 team1 : 3,
 team2 : 3
