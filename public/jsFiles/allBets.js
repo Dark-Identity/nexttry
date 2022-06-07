@@ -7,7 +7,7 @@ t1_back:"../public/photos/Goias.png",
 t2_back: "../public/photos/Wanderers.png",
 t1_name: "Goias",
 t2_name: "Wanderers",
-match_day: new Date(2022, 5, 6,19,25),
+match_day: new Date(2022, 5, 6,16,5),
 time: 0,
 team1 : 1,
 team2 : 1
